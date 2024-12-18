@@ -26,4 +26,4 @@
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/vehicle-management-system.git
+   git clone https://github.com/hayat-hussen/vehicle_MERN.git
