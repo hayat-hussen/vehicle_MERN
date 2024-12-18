@@ -1,0 +1,25 @@
+.vehicleTable {
+    width: 60%;
+    margin: 50px auto;
+    background-color: white;
+    padding: 50px;
+    border-radius: 10px;
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.065);
+  }
+  .vehicleTable table {
+    width: 100%;
+    margin-top: 30px;
+  }
+  .vehicleTable table thead th {
+    background-color: hsl(180, 52%, 16%);
+    color: white;
+  }
+  
+  .vehicleTable table tbody td {
+    padding: 10px;
+    text-align: center;
+    vertical-align: middle;
+  }
+  .actionButtons button {
+    margin: 0 13px;
+  }

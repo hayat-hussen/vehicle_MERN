@@ -1,0 +1,51 @@
+/* welcome.css */
+.welcome-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  text-align: center;
+  background-image: url('./car.png'); 
+  background-size: cover; 
+  background-position: center; 
+  color: white; 
+  padding: 20px;
+}
+
+h1 {
+  font-size: 3.5rem;
+  margin-bottom: 200px;
+  color: #ffffff;
+}
+
+p {
+  font-size: 1.6rem;
+  margin-top: 200px;
+  color: #ffffff;
+}
+
+.button-group {
+  display: flex;
+  gap: 15px;
+}
+
+.btn {
+  .btn {
+    padding: 15px 30px; /* Increase padding for larger buttons */
+    font-size: 1.2rem; /* Increase font size */
+    border: none;
+    border-radius: 8px; /* Slightly larger border radius */
+    text-decoration: none;
+    color: white; /* Button text color */
+    cursor: pointer; /* Change cursor to pointer */
+  }
+}
+
+.btn-primary {
+  background-color: #007bff;
+}
+
+.btn-secondary {
+  background-color: #6c757d;
+}
